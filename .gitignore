@@ -2,3 +2,11 @@
 **/.ipynb_checkpoints/
 __pycache__/
 *.pyc
+# CNN dataset test run checkpoints
+CNN with DataSet Test Run/checkpoints/
+CNN with DataSet Test Run/checkpoint/
+CNN with DataSet Test Run/**/*.ckpt
+CNN with DataSet Test Run/**/*.pth
+CNN with DataSet Test Run/**/*.pt
+CNN with DataSet Test Run/**/__pycache__/
+CNN with DataSet Test Run/**/.ipynb_checkpoints/
